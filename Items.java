@@ -1,4 +1,8 @@
 public class Items {
+    //Charlie Hill
+    //Professor Labouseur
+    //Software Development 1 - Project Two
+    //13 March 2014
 
     //
     // -- PUBLIC --

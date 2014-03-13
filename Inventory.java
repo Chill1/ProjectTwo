@@ -1,15 +1,11 @@
-public class Locale {
-    //Charlie Hill
-    //Professor Labouseur
-    //Software Development 1 - Project Two
-    //13 March 2014
+public class Inventory {
 
     //
     // -- PUBLIC --
     //
 
     // Constructor
-    public Locale(int id) {
+    public Inventory (int id) {
         this.id = id;
     }
 
@@ -42,7 +38,7 @@ public class Locale {
 
     // Other methods
     public String toString() {
-        return "[Locale object: id=" + this.id + " name="+ this.name + " desc=" + this.desc + "]";
+        return  this.name;
     }
 
 

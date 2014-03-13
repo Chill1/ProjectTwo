@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
 public class Game {
+    //Charlie Hill
+    //Professor Labouseur
+    //Software Development 1 - Project Two
+    //13 March 2014
 
     // Globals
     public static final boolean DEBUGGING = false;   // Debugging flag.
